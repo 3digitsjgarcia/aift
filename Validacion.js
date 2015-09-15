@@ -2052,4 +2052,3 @@ function getKendoInputControl(id) {
     return false;
 }
 
-
